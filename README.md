@@ -1,10 +1,18 @@
 # go_india_stocks_assignment
 
-A new Flutter project.
+A new Flutter project using Bloc State Management. In this I am fetching json data through an api and using bloc state management showing it in the UI with certain filters and searching functions or we can say streams.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Just install all the dependancies and the project is ready to go on your emulator/device.
+
+## How it looks ? 
+
+
+
+
+https://user-images.githubusercontent.com/71925114/152979853-66ddc8ef-1158-4fbe-b124-88fc5641fca1.mp4
+
 
 A few resources to get you started if this is your first Flutter project:
 
